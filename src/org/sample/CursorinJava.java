@@ -18,6 +18,8 @@ public class CursorinJava {
 		v.add("c");
 		v.add("d");
 		v.add("E");
+		v.add("f");
+		v.add("g");
 		
 	System.out.println(v);
 		
